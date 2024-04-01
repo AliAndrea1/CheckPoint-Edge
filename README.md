@@ -1,3 +1,4 @@
+
 # Check-Point Edge Vinharia
 
 Este projeto consiste na criação de um sistema de monitoramento de luminosidade para o ambiente de armazenamento de vinhos da Vinheria Agnello. O sistema utilizando Arduino que capture informações de luminosidade do ambiente, empregando o uso de um LDR (Light Dependent Resistor).
@@ -41,3 +42,31 @@ Este é o primeiro passo de um projeto mais amplo de monitoramento, que posterio
 - A seguir, uma imagem para auxiliar na montagem:
 
     <img src="CheckPoint.JPG"/>
+
+**2. Codificação do Arduino:**
+
+- Abra o Arduino IDE ou utilize a plataforma online Tinkercad para escrever o código.
+- Copie o [código fornecido](Codigo.cpp) e cole no editor de código do Arduino.
+- Verifique se o código está de acordo com a montagem do seu circuito.
+
+**3. Teste do sistema:**
+
+- Observe o comportamento dos LEDs e do buzzer de acordo com a luminosidade do ambiente.
+- Teste diferentes níveis de luminosidade para verificar a resposta do sistema.
+
+**4. Ajustes (se necessário):**
+
+- Se os limiares de luminosidade ou o comportamento dos LEDs/buzzer precisarem ser ajustados, faça as modificações no código conforme necessário.
+
+## Autores
+
+- [@AliAndrea1](https://github.com/AliAndrea1)
+
+- [@brunacostaz](https://github.com/brunacostaz)
+
+- [@Laurasdc](https://github.com/Laurasdc)
+
+- [@querenprates](https://github.com/querenprates)
+
+- [@sofiafernandes857](https://github.com/sofiafernandes857)
+
