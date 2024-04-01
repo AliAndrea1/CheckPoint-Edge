@@ -38,7 +38,7 @@ Este é o primeiro passo de um projeto mais amplo de monitoramento, que posterio
 - Conecte o Arduino Uno à protoboard.
 - Conecte os LEDs aos pinos digitais do Arduino (por exemplo, 13, 12 e 11)
 - Conecte o LDR a um dos pinos analógicos do Arduino (por exemplo, A0) e o outro terminal conecte ao 5V.
-- Conecte o buzzer a um pino digital do Arduino (por exemplo, 2).
+- Conecte o buzzer a um pino digital do Arduino (por exemplo, 8).
 - A seguir, uma imagem para auxiliar na montagem:
 
     <img src="CheckPoint.JPG"/>
